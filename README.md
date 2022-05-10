@@ -8,3 +8,4 @@
 ![](https://github.com/tangxinyanqx/jscdn/blob/main/images/太阳.png)
 ![](https://github.com/tangxinyanqx/jscdn/blob/main/images/学习.png)
 ![](https://github.com/tangxinyanqx/jscdn/blob/main/images/专业拓展.png)
+![](https://github.com/tangxinyanqx/jscdn/blob/main/images/new.png)
